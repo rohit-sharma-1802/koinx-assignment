@@ -4,7 +4,7 @@ Welcome to the KoinX Frontend Task repository! This project utilizes **React.js*
 
 ## Preview
 
-[![KoinX Preview](preview.png)](https://koinx-assignmnent.vercel.app/)
+[![KoinX Preview](preview.png)](https://koinx-assignment-zeta.vercel.app/)
 
 Click on the image above to view the live demo.
 
@@ -14,7 +14,7 @@ Click on the image above to view the live demo.
 - **React Router DOM v6**: Declarative routing for React applications.
 
 ## Live Demo
-Check out the live demo [here](https://koinx-assignmnent.vercel.app/). 
+Check out the live demo [here](https://koinx-assignment-zeta.vercel.app/). 
 
 ## Overview and Features
 This project implements various components as per the provided Figma design, allowing users to explore cryptocurrency data. Here are some key features:
@@ -29,14 +29,14 @@ This project implements various components as per the provided Figma design, all
 ## Optional Tasks
 - **Dynamic URL Paths**: Users can modify the coin name in the URL to access data for different cryptocurrencies.
 - **Example URLs**:
-  - `https://koinx-assignmnent.vercel.app/bitcoin` for Bitcoin
-  - `https://koinx-assignmnent.vercel.app/ethereum` for Ethereum
-  - `https://koinx-assignmnent.vercel.app/ripple` for Ripple
+  - `https://koinx-assignment-zeta.vercel.app/bitcoin` for Bitcoin
+  - `https://koinx-assignment-zeta.vercel.app/ethereum` for Ethereum
+  - `https://koinx-assignment-zeta.vercel.app/ripple` for Ripple
 
 **Note**: The CoinGecko API has a rate limit of 30 calls per minute.
 
 ## How to Use
-1. Visit the [live demo](https://koinx-assignmnent.vercel.app/).
+1. Visit the [live demo](https://koinx-assignment-zeta.vercel.app/).
 2. Explore different cryptocurrencies by modifying the coin name in the URL.
 3. Enjoy browsing through cryptocurrency data and charts!
 
